@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Shelf test extension",
-  "version": "1.0",
+  "version": "1.1",
   "update_url": "https://shelf.niduslabs.dev/updates/momhecocnmkhlmlfajehcajpfkbcldic.xml",
   "permissions": ["storage"]
 }
