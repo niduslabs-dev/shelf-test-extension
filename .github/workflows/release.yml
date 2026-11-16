@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - uses: niduslabs-dev/shelf/actions/publish@87daf667348fe6ae39ca2fa8fc7cba6c3466e456
+      - uses: niduslabs-dev/shelf/actions/publish@92bd60b49463d63a4123c9892d4850bc13a15cec
         with:
           path: .
           signing-key: ${{ secrets.SHELF_SIGNING_KEY }}
